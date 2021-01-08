@@ -3,6 +3,7 @@
 #Usage
 
 -> Clone the repo
+
 -> Go to the repo with terminal
 
 Player 1:   (return pid)
